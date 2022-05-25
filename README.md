@@ -40,6 +40,6 @@ For this project the [HAM10000("Human Against Machine with 10000 training images
   - Scipy
   - Autokeras
 
-**Html** ( to prepare the templates to the deployment
+**Html** ( to prepare the templates for the deployment
 
-## This is a work in progress
+### This is a work in progress
